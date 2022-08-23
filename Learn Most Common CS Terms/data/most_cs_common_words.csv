@@ -1,0 +1,918 @@
+English,Arabic
+system,النظام
+data,بيانات
+algorithm,خوارزمية
+such,مثل
+base,قاعدة
+node,العقدة
+model,نموذج
+case,قضية
+program,برنامج
+information,معلومة
+set,تعيين
+code,الشفرة
+function,وظيفة
+process,معالجة
+application,طلب
+software,البرمجيات
+class,صف دراسي
+point,نقطة
+type,يكتب
+network,شبكة الاتصال
+tree,شجرة
+object,هدف
+element,عنصر
+input,الإدخال
+operation,عملية
+level,مستوى
+memory,ذاكرة
+table,الطاولة
+order,ترتيب
+file,ملف
+variable,عامل
+language,لغة
+write,اكتب
+list,قائمة
+structure,بنية
+compute,إحصاء - عد
+sequence,تسلسل
+computer,الحاسوب
+bit,قليل
+probability,احتمالا
+machine,آلة
+array,مجموعة مصفوفة
+page,صفحة
+error,خطأ
+step,خطوة
+search,بحث
+most,عظم
+path,طريق
+graph,رسم بياني
+web,الويب
+length,الطول
+several,العديد من
+security,الأمان
+proof,دليل - إثبات
+access,التمكن من
+obtain,الحصول على
+matrix,مصفوفة
+task,مهمة
+image,صورة
+form,شكل
+return,إرجاع
+interface,واجهه المستخدم
+resource,مورد
+address,تبوك
+implementat,تنفيذ
+loop,عقدة
+first,أول
+read,قرأ
+location,موقعك
+hardware,المعدات
+behavior,سلوك
+programming,برمجة
+field,مجال
+key,مفتاح
+parameter,معامل
+distributio,التوزيع
+definition,تعريف
+instance,نموذج
+interaction,التفاعل
+internet,إنترنت
+representat,تمثيل
+edge,حافة
+stack,كومة
+return,إرجاع
+procedure,إجراء
+link,حلقة الوصل
+output,انتاج
+block,الكتلة
+domain,نطاق
+store,متجر
+call,مكالمة
+device,جهاز
+server,الخادم
+static,ثابتة
+dataset,مجموعة البيانات
+detection,كشف
+write,اكتب
+execute,نفذ - اعدم
+least,الأقل
+key,مفتاح
+range,نطاق
+pattern,نمط
+vector,المتجه
+binary,الثنائية
+constraint,قيد
+message,رسالة
+environment,بيئة
+tool,أداة
+query,استفسار
+phase,مرحلة
+cluster,تَجَمَّع
+architectur,المهندس المعماري
+root,جذر
+character,حرف
+processor,المعالج
+due,بسبب
+computation,حساب
+standard,اساسي
+expression,التعبير
+cell,زنزانة
+client,عميل
+constant,مستمر
+address,تبوك
+database,قاعدة البيانات
+access,التمكن من
+argument,جدال
+online,عبر الانترنت
+dynamic,متحرك
+simulation,محاكاة
+construct,بناء
+degree,الدرجة العلمية
+log,سجل
+layer,طبقة
+linear,خطي
+select,تحديد
+choice,خيار
+optimal,أفضل
+index,فهرس
+complexity,تعقيد
+signal,الإشارة
+analyzeyses,تحليلات
+execution,إعدام
+specify,حدد
+correspondi,تتوافق
+display,عرض
+document,وثيقة
+model,نموذج
+handle,يتعامل
+mode,الوضع
+frame,الإطار
+check,التحقق من
+mean,يعني
+equation,معادلة
+scheme,مخطط
+theory,نظرية
+knowledge,المعرفه
+physical,بدني
+cycle,دورة
+accord,اتفاق
+optimizatio,Optimizatio
+logic,منطق
+classificat,Classificat
+cluster,تَجَمَّع
+enable,يُمكَِن
+request,طلب
+denote,دل
+accuracy,صحة
+process,معالجة
+sort,فرز
+engineering,هندسة
+operator,المشغل أو العامل
+formula,معادلة
+failure,خزي
+measure,يقيس
+interval,فترة
+virtual,افتراضية
+share,شارك
+assign,تعيين
+symbol,رمز
+framework,نطاق
+exception,استثناء
+testing,اختبارات
+organizatio,منظمة
+update,تحديث
+basic,أساسي
+specificati,محدد
+max,الأعلى
+configurati,configurati
+assumption,افتراض
+evaluation,تقييم
+processing,يتم المعالجة
+notation,الرموز
+storage,تخزين
+protocol,بروتوكول
+platform,برنامج
+typically,عادة
+subset,مجموعة فرعية
+bound,مقيد
+respectivel,احترام
+traffic,حركة المرور
+depth,عمق
+attribute,ينسب
+aspect,جانب
+characteris,خصائص
+combination,مزيج
+branch,فرع
+card,بطاقة
+category,الفئة
+conditional,الشرط
+modify,تعديل
+frequency,تكرر
+grid,جريد
+global,عالمي
+dimension,البعد
+insert,إدراج
+priority,أولوية
+speed,سرعة
+variable,عامل
+center,المركز
+exploit,الاستفادة
+link,حلقة الوصل
+measure,يقيس
+library,مكتبة
+similarity,تشابه
+iteration,تكرار
+vertex,قمة الرأس
+resolution,الدقة
+prediction,تنبؤ
+transaction,عملية تجارية
+equivalent,ما يعادل
+extract,مقتطف
+finite,محدود
+cache,مخبأ
+efficiency,نجاعة
+label,ضع الكلمة المناسبة
+valid,صالح
+functionali,وظيفية
+summary,ملخص
+check,التحقق من
+boundary,الحدود
+computing,الحوسبة
+multiplicat,متعددة
+yield,أَثْمَر
+automatical,التلقائي
+correspond,تطابق
+neighbor,الجار
+minimum,الحد الأدنى
+compiler,المترجم
+mathematica,الرياضيات
+assignment,مهمة
+integrate,دمج
+convert,يتحول
+order,ترتيب
+related,ذات صلة
+base,قاعدة
+encode,تشفير
+segment,مقطع
+computation,حساب
+dimensional,الأبعاد
+metric,قياس
+fast,سريع
+zero,صفر
+label,ضع الكلمة المناسبة
+list,قائمة
+safety,سلامة
+embed,تضمين
+allocate,تخصيص
+desire,رغبة
+copy,ينسخ
+classify,تصنيف
+track,مسار
+overview,نظرة عامة
+diagram,رسم بياني
+active,نشيط
+monitor,مراقب
+delete,حذف
+temporal,زمني
+malicious,ضار
+drive,قطع
+summarizemmarises,Summarizemmarises
+summarised,ملخص
+logical,منطقي
+map,خريطة
+volume,الصوت
+usage,الاستخدام
+min,دقيقة
+approximati,تقريبا
+chain,سلسلة
+name,اسم
+bind,ربط
+count,عدد
+guarantee,ضمان
+map,خريطة
+format,صيغة
+channel,قناة
+update,تحديث
+infrastruct,البنية التحتية
+adapt,يتكيف
+stream,مجرى
+search,بحث
+store,متجر
+capability,الإمكانية
+buffer,متعادل
+ratio,نسبة
+engine,محرك
+mapping,رسم الخرائط
+optimizeses,يحسن
+optimised,المحسن
+kernel,نواة
+overhead,تكاليف غير مباشرة
+transformat,تحويل
+recall,اعد الاتصال
+print,مطبعة
+feedback,استجابة
+hypothesis,فرضية
+mean,يعني
+command,يأمر
+bound,مقيد
+translate,يترجم
+translation,ترجمة
+verify,تحقق
+arbitrary,افتراضى
+limitation,قيود
+deploy,نشر
+spatial,مكاني
+threshold,عتبة
+inference,الإستنباط
+coefficient,معامل في الرياضيات او درجة
+view,رأي
+video,فيديو
+core,جوهر
+destination,المكان المقصود
+underlie,تكمن وراء
+abstraction,التجريد
+switch,تحول
+regression,تراجع
+learning,التعلم
+square,ميدان
+entity,كيان
+code,الشفرة
+precision,الاحكام
+extension,امتداد
+verificatio,VERICITATIO
+interactive,تفاعلي
+capacity,الاهلية
+variation,الاختلاف
+file,ملف
+deployment,تعيين
+specified,محدد
+abstract,نبذة مختصرة
+decrease,تخفيض
+one,واحد
+continuous,مستمر
+utilize    ises,استخدام ises
+noise,الضوضاء
+discrete,منفصله
+curve,منحنى
+rotation,دوران
+correctly,بشكل صحيح
+oriented,الموجهة
+randomly,بشكل عشوائي
+hierarchy,التسلسل الهرمي
+monitoring,يراقب
+fraction,جزء
+default,إفتراضي
+explicitly,صراحة
+clock,ساعة حائط
+technical,تقني
+simplify,تبسيط
+cross,الاعتراض
+simulate,محاكاة
+characterizaracterised,المتميز
+characterises,يميز
+characterising,توصيف
+switch,تحول
+scale,مقياس
+namely,يسمى
+generalize,تعميم
+generalised,المعممة
+generalising,تعميم
+organizesed,ينظم
+organises,ينظم
+interact,تفاعل
+sequential,تسلسلي
+allocation,توزيع
+developer,مطور
+self,الذات
+transfer,نقل
+rectangle,مستطيل
+shift,تحول
+maximum,أقصى
+partition,تقسيم
+prototype,النموذج المبدئي
+explicit,صريح
+slot,فتحة
+generic,نوعي
+estimation,تقدير
+sparse,متناثر
+calculation,عملية حسابية
+partition,تقسيم
+commonly,عادة
+portion,جزء
+chip,رقاقة
+hierarchica,هيرشكا
+signature,التوقيع
+remainder,بقية
+graphical,رسومية
+compile,ترجمة
+exact,بالضبط
+evolution,تطور
+construct,بناء
+scope,مجال
+review,إعادة النظر
+availabilit,متوفر
+arithmetic,علم الحساب
+block,الكتلة
+partial,جزئي
+interpret,ختم
+transferransfered,نقل
+topology,البنية
+sample,عينة
+taxonomy,تصنيف
+second,ثانيا
+terminate,إنهاء
+counter,يعداد
+read,قرأ
+split,ينقسم
+increment,زيادة راتب
+decompositi,تحلل
+left,اليسار
+register,تسجيل
+axis,محور
+syntax,بناء الجملة
+frequent,متكرر
+parallel,موازى
+influence,تأثير
+peer,نظير
+null,لا شيء
+greedy,طماع
+efficiently,بكفاءة
+evolve,تطور
+minimum,الحد الأدنى
+geometric,هندسي
+dependency,الاعتماد
+engineer,مهندس
+distinguish,تميز
+filter,منقي
+equal,مساو
+target,استهداف
+following,التالية
+validation,تصديق
+variant,البديل
+digital,رقمي
+toward,باتجاه
+width,العرض
+velocity,● السرعة
+probabilist,احتمالية
+pass,يمر
+communicate,يتواصل
+exceed,يتجاوز
+straightfor,مباشرة ل
+edit,تعديل
+automatic,تلقائي
+universal,عالمي
+in,في
+random,عشوائي
+header,رأس
+constrain,تقييد
+identifier,المعرف
+compute,إحصاء - عد
+mouse,الفأر
+range,نطاق
+float,يطفو
+eliminate,القضاء
+multiply,تتضاعف
+browser,متصفح
+violate,ينتهك
+runtime,مدة العرض
+hint,ملحوظة
+integrity,النزاهة
+filter,منقي
+infinite,لانهائي
+likelihood,احتمالية
+multiple,مضاعف
+zero,صفر
+theoretical,نظري
+occurrence,حادثة
+infer,المخاطر
+initialize,تهيئة
+initialising,التهيئة
+initialises,عملياتها
+completion,إكمال
+constant,مستمر
+adaptive,تكيفي
+maintenance,اعمال صيانة
+aggregation,تجميع
+compromise,مرونة
+symmetric,متماثل
+artifact,الأداة
+interrupt,مقاطعة
+reuse,إعادة استخدام
+bin,سلة مهملات
+paradigm,نموذج
+type,يكتب
+discovery,اكتشاف
+identificat,هوية
+coordinate,تنسيق
+vendor,بائع
+expectation,توقع
+retrieval,استرجاع
+independent,لا يعتمد
+maximizeses,يزيد
+maximised,تعظيم
+pi,بي
+reasoning,منطق
+inequality,عدم المساواة
+schedule,برنامج
+transmissio,transmissio
+modificatio,التعديل
+coarse,خشن
+highlight,تسليط الضوء
+statistical,إحصائي
+approximate,تقريبي
+overlap,تداخل
+shift,تحول
+robust,قوي
+trace,أثر
+scan,مسح
+refinement,التنقيح
+yield,أَثْمَر
+transmit,نقل
+connectivit,connectivit
+recursively,متكرر
+function,وظيفة
+faster,أسرع
+outlier,خارجي
+preceding,السابق
+bug,حشرة
+recovery,التعافي
+overflow,الفائض
+gate,بوابة
+empirical,تجريبي
+intermediat,الوسيط
+effectivene,تأثير
+guideline,المبدأ التوجيهي
+collision,الاصطدام
+comparable,مماثلة
+formulation,الصيغة
+exhibit,عرض
+roughly,بقسوة
+operational,التشغيل
+minimal,الحد الأدنى
+automated,الآلي
+split,ينقسم
+retrieve,يسترد
+division,قطاع
+content,المحتوى
+determinist,الحتمية
+port,ميناء
+prime,برايم
+simultaneou,simultaneou
+intersectio,Intersectio
+scalability,قابلية التوسع
+utility,خدمة
+uniform,زي مُوحد
+object,هدف
+electronic,إلكتروني
+structural,الهيكلي
+nonnegative,غير سالبة
+implicit,ضمني
+arrow,سهم
+insight,تبصر
+survey,الدراسة الاستكشافية
+prior,قبل
+experimenta,التجربة
+composition,تكوين
+weighted,موزون
+hybrid,هجين
+adjacent,متاخم
+alignment,محاذاة
+install,تثبيت
+manipulate,معالجة
+incorrect,غير صحيح
+motivate,تحفيز
+dynamically,ديناميكيا
+depict,تصف
+enforce,فرض
+coordinate,تنسيق
+null,لا شيء
+zero,صفر
+alphabet,الأبجدية
+vulnerable,غير حصين
+rank,مرتبة
+utilization,استغلال
+layout,نسق
+precise,دقيق
+dynamics,الديناميات
+sampling,أخذ العينات
+offset,عوض
+convention,اتفاقية. معاهدة
+bias,تحيز
+simplicity,بساطة
+proportiona,نسبة
+interpretat,تفسير
+tracking,التتبع
+validate,التحقق
+flip,يواجه
+graphics,الرسومات
+mechanical,ميكانيكي
+mine,مِلكِي
+phenomenon,ظاهرة
+matching,مطابقة
+equivalence,التكافؤ
+principal,المالك
+double,مزدوج
+legitimate,شرعي
+monitor,مراقب
+enterprise,مشروع - مغامرة
+prior,قبل
+generator,مولد كهرباء
+smart,ذكي
+correction,تصحيح
+checking,تدقيق
+completenes,أكمل
+projection,تنبؤ
+document,وثيقة
+rewrite,اعادة كتابة
+helpful,معاون، مساعد، مفيد، فاعل خير
+flexible,مرن
+request,طلب
+shared,مشترك
+correctness,صحة
+trace,أثر
+additionall,إضافة
+load,حمل
+connected,متصل
+behave,تصرف
+host,مضيف
+numerical,عددي
+arithmetic,علم الحساب
+workload,عبء العمل
+sharing,مشاركة
+guarantee,ضمان
+indicator,مؤشر
+remote,التحكم عن بعد
+equality,المساواة
+centralized,مركزية
+chunk,قطعة
+originally,في الأصل
+formally,رسميا
+repeatedly,مرارا وتكرارا
+metric,قياس
+intuitive,حدسي
+configure,تهيئة
+span,يولد
+inverse,معكوس
+regardless,يغض النظر
+binary,الثنائية
+incremental,تدريجي
+double,مزدوج
+primitive,بدائية
+normalizermalised,الطبيعي
+normalises,تطبيع
+versus,عكس
+anonymous,مجهول
+trigger,اثار
+accomplish,ينجز
+structure,بنية
+repository,مخزن
+replacement,إستبدال
+penalty,ضربة جزاء
+tolerance,تفاوت
+metadata,البيانات الوصفية
+structured,منظم
+reference,المرجعي
+complicated,معقد
+group,مجموعة
+exponential,متسارع
+swap,تبديل
+signal,الإشارة
+omit,حذف
+on,على
+even,حتى
+exchange,تبادل
+executable,تنفيذ
+extraction,اِستِخلاص
+schedule,برنامج
+handling,معالجة
+website,موقع الكتروني
+root,جذر
+accessible,يمكن الوصول
+propagate,بث
+randomizendomised,عشوائي
+randomises,عشوائية
+permutation,التقليب
+advanced,المتقدمة
+integrated,مدمج
+arc,قوس
+latter,أخير
+align,محاذاة
+approximate,تقريبي
+vertical,عمودي
+stream,مجرى
+besides,بجانب
+rotate,استدارة
+core,جوهر
+scan,مسح
+nest,عش
+journal,مجلة
+subject,موضوعات
+briefly,موجز
+base,قاعدة
+diversity,تنوع
+fit,لائق بدنيا
+concurrent,منافس
+annotation,حاشية. ملاحظة
+appendix,الملحق
+implication,يتضمن
+sufficientl,كافية
+consistency,التناسق
+weakness,ضعف
+motivation,تحفيز
+formulate,صياغة
+center,المركز
+periodic,دورية
+adoption,تبني
+pop,البوب
+compatible,متناسق
+decrease,تخفيض
+corresponde,يتوافق
+swap,تبديل
+receiver,المتلقي
+reconstruct,إعادة البناء
+quantity,كمية
+distinction,امتياز
+scalable,القابلة للتطوير
+alternative,لبديل
+stable,مستقر
+disjoint,منفصل
+convenient,مناسب
+consecutive,على التوالي
+query,استفسار
+displacemen,إزاحة
+adaptation,التكيف
+project,مشروع
+distortion,تشوه
+extensive,شامل
+placement,تحديد مستوى
+separation,انفصال
+feasible,ممكن
+networking,الشبكات
+tail,ذيل
+violation,انتهاك
+annotate,علق
+offset,عوض
+conjunction,بالاشتراك
+generalizat,Genomizat
+exclusive,حصرية
+categorize,تصنيف
+categorising,تصنيف
+categorises,تصنيف
+dictionary,قاموس
+debug,تصحيح
+emphasizehasising,التأكيد
+emphasises,يؤكد
+applicable,المعمول بها
+bottom,الأسفل
+uniformly,بشكل موحد
+conversion,تحويلات
+magnitude,ضخامة
+modified,تم التعديل
+iterative,ترابطي
+template,قالب
+thereby,وبالتالي
+parallel,موازى
+heuristic,ارشادي
+calculus,حساب التفاضل والتكامل
+program,برنامج
+separately,بشكل منفصل
+balance,الرصيد
+controller,مراقب
+greatly,كثيرا
+attribute,ينسب
+acquisition,استحواذ
+purchase,عملية الشراء
+flexibility,المرونة
+quantify,تحديد الكمية
+logically,منطقيا
+robustness,المتانة
+assertion,التأكيد
+derivation,اشتقاق
+manually,يدويًا
+reside,يقيم
+draw,سحب
+numerous,كثير
+manual,كتيب
+reverse,يعكس
+uncertainty,ريبة
+desirable,مرغوب فيه
+speed,سرعة
+timing,توقيت
+click,انقر
+million,مليون
+realistic,واقعي
+peer,نظير
+augment,زيادة
+anomaly,شذوذ
+nonzero,غير صفرية
+self,الذات
+trivial,تافه
+specialized,متخصص
+discard,تجاهل
+observed,لاحظ
+accurately,بدقة
+validity,صلاحية
+strictly,بشكل صارم
+mitigate,يخفف من
+push,يدفع
+square,ميدان
+planning,تخطيط
+above,في الاعلى
+persistent,مثابر
+partially,جزئيا
+traverse,اجتياز
+balanced,متوازن
+refine,صقل
+required,مطلوب
+click,انقر
+meaningful,ذو معنى
+incur,يتكبد
+precede,سبق
+collaborati,Collaborati
+heterogeneo,heterogeneo
+marketing,تسويق
+terminology,المصطلح
+automate,أتمتة
+define,حدد
+flash,فلاش
+algorithm,خوارزمية
+continuousl,مستمر
+number,رقم
+forth,راب
+subtract,طرح او خصم
+orient,توجيه
+subsystem,النظام الفرعي
+disadvantag,العيوب
+replicate,استنساخ
+closed,مغلق
+implicitly,بشكل ضمني
+redundant,متكرر
+mutual,مشترك
+parallelism,تماثل
+alter,تغيير
+selected,المحدد
+manipulatio,Manipulatio
+simulator,محاكاة
+bucket,دلو
+horizontal,عرضي
+mask,قناع
+collaborati,Collaborati
+printer,طابعة
+challenging,التحدي
+classical,كلاسيكي
+due,بسبب
+exit,خروج
+routine,نمط
+multimedia,الوسائط المتعددة
+cope,التأقلم
+illustratio,التوضيح
+incoming,واردة
+representat,تمثيل
+inherent,متأصل
+sum,مجموع
+abstract,نبذة مختصرة
+fragment,شظية
+composite,مركب
+relational,العلائقية
+assert,يجزم
+opposite,عكس
+vice,نائب
+neighboring,المجاور
+snapshot,لمحة
+latter,أخير
+accordingly,وفقاً لذلك
+invalid,غير صالحة
+visualizati,Visualizati
+size,بحجم
+novel,رواية
+physically,جسديا
+locality,محلية
+transform,تحول
+concrete,أسمنت
+computation,حساب
+hidden,مختفي
+fulfill,تحقيق
+originate,تنشأ
+virtual,افتراضية
+script,النصي
+acceptance,قبول
+arbitrarily,على نحو إستبدادي
+setup,اقامة
+positive,إيجابي
+shell,الصدف
+drawback,عائق
+scaling,التحجيم
+couple,زوج
+brute,وحشي
+average,معدل
+benchmark,معيار
+FALSE,خاطئة
+designate,تعيين
+outer,خارجي
+derivative,المشتق
+classic,كلاسيكي
+stack,كومة
+next,التالي
+leverage,تأثير ايجابي
